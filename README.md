@@ -11,7 +11,7 @@ Smart Home Automation Project - that really saves energy, digitize your home and
     Solar panels used and motivated etc.
 
 ## Our solution->
-#Shap-Smart Home Automation Product
+# Shap-Smart Home Automation Product
 	->It is a IoT product made of up of many electronic devices like arduino, esp8266 and many sensors and is connected to the internet.
 	->It can completely automate the all appliances of our homes (by automatically turning ON/OFF the light,fans & AC etc when you enter/leave the room).
 	-> It consumes negligible electricity.

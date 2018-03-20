@@ -37,3 +37,4 @@ India is a developing country and shortage of electricity is still a major probl
 
 ## Future Use - 
 If it is implemented in hostels ,homes , industries then Govt. can access the real power consumption statistics of them and they can make their future plans according to that data.
+

@@ -15,28 +15,28 @@ Smart Home Automation Project - that really saves energy, digitize your home and
 
 ## Our solution
 # Shap-Smart Home Automation Product
-	*It is a IoT product made of up of many electronic devices like arduino, esp8266 and many
+	Markup : * It is a IoT product made of up of many electronic devices like arduino, esp8266 and many
 	sensors  and is connected to the internet.
-	*It can completely automate the all appliances of our homes (by automatically turning ON/OFF the
+	Markup : * It can completely automate the all appliances of our homes (by automatically turning ON/OFF the
 	light,fans & AC etc when you enter/leave the room).
-	* It consumes negligible electricity.
-	* It is very cost effective.
-	* We have build online panel to control all the devices from any of your devices(like cell
+	Markup : * It consumes negligible electricity.
+	Markup : * It is very cost effective.
+	Markup : * We have build online panel to control all the devices from any of your devices(like cell
 	phones,  laptops & tablat etc) from anywhere in the world.
-	* Our online panel have an admin section only for the owner of the house, from where he can
+	Markup : * Our online panel have an admin section only for the owner of the house, from where he can
 	control all the devices. 
-	* Voice Controllable- User can also control the appliances by voice commands.(we have used voice
+	Markup : * Voice Controllable- User can also control the appliances by voice commands.(we have used voice
 	controlled tools in physical as well as in digital form).
-	* There is also a override button in the panel by which we can completely cut the electricity
+	Markup : * There is also a override button in the panel by which we can completely cut the electricity
 	power of the house. Suppose if the family is going outside for a trip, then they can turn ON the
 	override mode. Then nobody can access any of the device in the house. 
-	* Security- If anybody tries to make any tampering in the system (like cutting any of the wire),
+	Markup : * Security- If anybody tries to make any tampering in the system (like cutting any of the wire),
 	then all the appliances of the home will automatically Turn OFF and a tampering alarm will  ring
 	in the admin panel. Nobody can Turn ON the appliances until the owner gives the permission  on his
 	online panel.
-	* Consumption Measurement- It will give you the real time electricity consumption reading on the
+	Markup : * Consumption Measurement- It will give you the real time electricity consumption reading on the
 	admin panel.
-	* Appliances Status- It will show the status(whether it is ON/OFF) of all the appliances in the
+	Markup : * Appliances Status- It will show the status(whether it is ON/OFF) of all the appliances in the
 	home by Green/Red color in the online panel.
 
 ## Usage for any common person

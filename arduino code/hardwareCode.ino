@@ -99,14 +99,14 @@ void loop()
   float crnt2 = getCrnt(crntAtA1);
     Serial.println(crnt1);
     Serial.println(crnt2);
-    if( crnt1 > 0.22)
+    if( crnt1 > 0.13)
     {
         digitalWrite(moniter1, HIGH);
     }
     else{
         digitalWrite(moniter1, LOW);
     }
-    if(crnt2 > 0.22)
+    if(crnt2 > 0.13)
     {
       digitalWrite(moniter2,HIGH);
     }

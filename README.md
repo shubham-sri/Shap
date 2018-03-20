@@ -2,13 +2,11 @@
 Smart Home Automation Project - that really saves energy, digitize your home and makes your life cool &amp; easy.
 
 ## the problem
-
 	Mega watts and Giga watts of power/energy is being wasted, majorly in the transmission and
 	distribution process, due to electricity theft, ancient technology usage, unavailability of funds,
 	expensive energy saving appliances and due to the carelessness of citizens.
 
 ## existing solutions
-
     * Appliances available with star ratings
     * Fake, expensive energy saving devices available in market
     * Installation of electric meters outside house to avoid tampering - LEDs used instead of
@@ -16,7 +14,6 @@ Smart Home Automation Project - that really saves energy, digitize your home and
     * Solar panels used and motivated etc.
 
 ## Our solution
-
 # Shap-Smart Home Automation Product
 	* It is a IoT product made of up of many electronic devices like arduino, esp8266 and many
 	sensors  and is connected to the internet.
@@ -43,7 +40,6 @@ Smart Home Automation Project - that really saves energy, digitize your home and
 	home by Green/Red color in the online panel.
 
 ## usage for any common person
-
 	* saves the electricity and so the money.
 	* automating the things around
 	* provides security to the home.
@@ -52,7 +48,6 @@ Smart Home Automation Project - that really saves energy, digitize your home and
 	* measures the power consumption reading also
 
 ## Why India needs it
-
 India is a developing country and shortage of electricity is still a major problem of our country.
 Elecricity is absent in many of the rural areas of our country till now. If our product (shap) is
 implemented in the houses of the country , then it will save a huge amount of electricity . Then our
@@ -60,7 +55,6 @@ govt. will be able to provide electricity in all rural areas of the country. It 
 the DIGITAL INDIA campaign.
 
 ## Future Use
-
 If it is implemented in hostels ,homes , industries then Govt. can access the real power consumption
 statistics of them and they can make their future plans according to that data.
 

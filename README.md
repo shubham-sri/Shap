@@ -1,12 +1,12 @@
 # Shap
 Smart Home Automation Project - that really saves energy, digitize your home and makes your life cool &amp; easy.
 
-## the problem
+## The problem
 	Mega watts and Giga watts of power/energy is being wasted, majorly in the transmission and
 	distribution process, due to electricity theft, ancient technology usage, unavailability of funds,
 	expensive energy saving appliances and due to the carelessness of citizens.
 
-## existing solutions
+## Existing solutions
     * Appliances available with star ratings
     * Fake, expensive energy saving devices available in market
     * Installation of electric meters outside house to avoid tampering - LEDs used instead of
@@ -39,7 +39,7 @@ Smart Home Automation Project - that really saves energy, digitize your home and
 	* Appliances Status- It will show the status(whether it is ON/OFF) of all the appliances in the
 	home by Green/Red color in the online panel.
 
-## usage for any common person
+## Usage for any common person
 	* saves the electricity and so the money.
 	* automating the things around
 	* provides security to the home.

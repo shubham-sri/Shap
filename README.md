@@ -15,9 +15,9 @@ Smart Home Automation Project - that really saves energy, digitize your home and
 
 ## Our solution
 # Shap-Smart Home Automation Product
-	* It is a IoT product made of up of many electronic devices like arduino, esp8266 and many
+	*It is a IoT product made of up of many electronic devices like arduino, esp8266 and many
 	sensors  and is connected to the internet.
-	* It can completely automate the all appliances of our homes (by automatically turning ON/OFF the
+	*It can completely automate the all appliances of our homes (by automatically turning ON/OFF the
 	light,fans & AC etc when you enter/leave the room).
 	* It consumes negligible electricity.
 	* It is very cost effective.
@@ -40,12 +40,12 @@ Smart Home Automation Project - that really saves energy, digitize your home and
 	home by Green/Red color in the online panel.
 
 ## Usage for any common person
-	* saves the electricity and so the money.
-	* automating the things around
-	* provides security to the home.
-	* gives accessability to the User from anywhere in the world 
-	* can be controlled from any device.
-	* measures the power consumption reading also
+	* Saves the electricity and so the money.
+	* Automating the things around
+	* Arovides security to the home.
+	* Gives accessability to the User from anywhere in the world 
+	* Can be controlled from any device.
+	* Measures the power consumption reading also
 
 ## Why India needs it
 India is a developing country and shortage of electricity is still a major problem of our country.

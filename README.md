@@ -58,3 +58,11 @@ Smart Home Automation Project - that really saves energy, digitize your home and
 	If it is implemented in hostels ,homes , industries then Govt. can access the real 
 	power consumption statistics of them and they can make their future plans according to that data.
 
+## Technologies and services used 
+	- c/c++							- Javascript
+	- Python						- PostgreSQL
+	- MQTT							- WebSockets
+	- nginx							- NodeJS
+	- MongoDb						- AWS 
+	- Other open source libraries
+
